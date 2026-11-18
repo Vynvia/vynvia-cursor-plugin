@@ -1,0 +1,14 @@
+{
+  "name": "vynvia",
+  "version": "1.0.0",
+  "description": "Prospecção B2B no Brasil pelo agente do Cursor: busca empresas na região que você quiser, escreve a abordagem, envia pelo WhatsApp no ritmo seguro e acompanha follow-ups e respostas, com tudo registrado na Vynvia.",
+  "author": {
+    "name": "Vynvia",
+    "email": "suporte@vynvia.com.br"
+  },
+  "homepage": "https://www.vynvia.com.br/mcp",
+  "repository": "https://github.com/Vynvia/vynvia-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["prospecção", "vendas", "b2b", "whatsapp", "leads", "brasil"],
+  "logo": "assets/logo.svg"
+}

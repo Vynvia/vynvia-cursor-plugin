@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vynvia": {
+      "url": "https://www.vynvia.com.br/api/mcp"
+    }
+  }
+}
