@@ -37,7 +37,7 @@ O plugin não guarda dados: ele liga o agente ao servidor da Vynvia, que trata o
 - **Retenção**: enquanto a conta estiver ativa, e pelo prazo previsto na política depois do encerramento.
 - **Contato**: privacidade@vynvia.com.br.
 
-A IA conectada nunca recebe o telefone dos leads: o envio pelo WhatsApp sai por um link que a Vynvia monta, dentro do limite diário da conta.
+As fichas, as listas e as conversas chegam ao agente sem o telefone dos leads. O número só aparece dentro do link de envio pelo WhatsApp, que a Vynvia libera um por vez, dentro do limite diário da conta.
 
 ## Suporte
 
